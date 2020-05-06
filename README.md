@@ -3,7 +3,8 @@ Mask Detection Dataset for yolo annotated by using https://github.com/tzutalin/l
 
 This dataset is in format for training yolov3 model using darknet or any python wrapper for yolo.
 
-it has 5158 instaces of masks and 490 instances of non-masks.
+it has 4000+ images of masked people on and 4000 images of non-masks.
+
 
 More data will be added in future and any contribution is appriciated.
 
@@ -57,4 +58,11 @@ imgs/467.jpg
 ```
 
 
-Download zipped file : https://drive.google.com/file/d/1l-DLvrFoSU5lexKWlL9U4pkZR69fb8LS/view?usp=sharing
+Download zipped file : https://drive.google.com/file/d/12BAE8t-TumUcOEfJsz4ADL0bka57Dwrw/view?usp=sharing
+
+
+**Credit of images :** 
+
+  https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+ 
+  http://shuoyang1213.me/WIDERFACE/
