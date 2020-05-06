@@ -7,6 +7,8 @@ it has 5158 instaces of masks and 490 instances of non-masks.
 
 More data will be added in future and any contribution is appriciated.
 
+Star this repo to stay updated.
+
 |class number | class name |
 |-------------|------------|
 | 0           | mask       |
